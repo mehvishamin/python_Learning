@@ -57,16 +57,16 @@ for questionNo,data in my_dict.items():
     
 
 
-# mehvish={
-#    'age': 23,
-#    'address': 'zaina kadal',
-#    'phoneNo': 7006870120,
+# abc={
+#    'age': 12443,
+#    'address': 'hhejfhjfj',
+#    'phoneNo': 1233,
 #     'marks': {
-#         '10thClass': 469,
-#         '12thClass': 434,
-#         'graduation': 8.7
+#         '10thClass': 567,
+#         '12thClass': 4377,
+#         'graduation': 8999
 #     }
 
 # }
-# list1=list(mehvish.values())
+# list1=list(abc.values())
 # print(list1[3])
